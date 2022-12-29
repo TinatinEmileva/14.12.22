@@ -152,31 +152,6 @@ button {
   border: 1px solid white;
   box-shadow: 3px 0px 10px 0px   gray;
 }
-.loc{
-  display: flex;
-  position: absolute;
-  flex-wrap: wrap;
-  align-items: flex-start;
-  margin-right: 50px;
- 
-}
 
-.kol{
-  display: flex;
-  position: absolute;
-  flex-wrap: wrap;
-  align-items: center;
-  margin-right: auto;
-  
-}
-
-.vok{
-  display: flex;
-  position: absolute;
-  flex-wrap: wrap;
-  align-items: center;
-  margin-right: auto;
-
-}
 
 
