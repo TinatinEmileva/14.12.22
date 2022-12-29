@@ -144,9 +144,39 @@ button {
   margin-bottom: 20px;
   padding: 100px 600px;
   display: flex;
-margin-right: 50PX;
+  border-radius: 10px;
+  margin-right: 50PX;
   margin: 20px;
   top: 715PX;
   left: 60px;
-  box-shadow:  gray;
+  border: 1px solid white;
+  box-shadow: 3px 0px 10px 0px   gray;
 }
+.loc{
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-right: 50px;
+ 
+}
+
+.kol{
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-right: auto;
+  
+}
+
+.vok{
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-right: auto;
+
+}
+
+
