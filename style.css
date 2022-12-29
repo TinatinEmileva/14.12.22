@@ -153,5 +153,10 @@ button {
   box-shadow: 3px 0px 10px 0px   gray;
   
 }
-
+.cart-header{
+  max-width: 350px;
+  padding: 20px;
+  text-align: center;
+  
+}
 
