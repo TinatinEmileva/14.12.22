@@ -15,12 +15,23 @@
 
   margin: 20px;
 }
+ .log .nav-item a{
+  color: #214E41;
+  text-decoration: none;
+}
+.log .nav-item a{
+  display: flex;
+}
 .nav {
   display: flex;
   flex-wrap: wrap;
   list-style-type: none;
   margin: 0;
   padding: 0;
+  text-decoration: none;
+}
+.nav .nav-item .nav-link{
+  color: #214E41;
   text-decoration: none;
 }
 .nav .nav-item {
@@ -157,6 +168,6 @@ button {
   max-width: 350px;
   padding: 20px;
   text-align: center;
-  
+
 }
 
