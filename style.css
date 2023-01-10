@@ -17,3 +17,14 @@ body{
   width: 75px;
   height: 22px;
 }
+.nav .n-link {
+  color: #214e41;
+ 
+  text-decoration: none;
+  display: block;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+}
