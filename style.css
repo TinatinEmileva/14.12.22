@@ -30,6 +30,9 @@ body{
   padding: 10px 25px;
 }
 .roun .n-link:hover {
+  color: white;
+  border-radius: 6px;
+  border: 0;
   background-color: #43806c;
  
 }
