@@ -12,3 +12,8 @@ body{
   margin: 0;
   list-style: none;
 }
+.fon {
+  margin-right: auto;
+  width: 75px;
+  height: 22px;
+}
